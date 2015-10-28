@@ -10,3 +10,4 @@
 - Patrick ：[http://www.dev2patrick.com/](http://www.dev2patrick.com/)
 - yrmo ：[http://blog.csdn.net/u013702312](http://blog.csdn.net/u013702312)
 - 张小丫：[http://blog.csdn.net/u013200864/](http://blog.csdn.net/u013200864/)
+- 痛定思痛：[http://blog.csdn.net/z469571695](http://blog.csdn.net/z469571695)
