@@ -57,6 +57,12 @@ yiming：[http://fanofdemo.github.io/](http://fanofdemo.github.io/)
 
 ---
 
-六只耳Duffy：[http://blog.csdn.net/sk_duffy](http://blog.csdn.net/sk_duffy)
+**昵称：** 六只耳Duffy
+
+**博客：** [http://blog.csdn.net/sk_duffy](http://blog.csdn.net/sk_duffy)
+
+**地区：** 帝都北京
+
+**描述：** I'll be the man of HaizeiWang -。-
 
 ---
