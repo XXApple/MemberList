@@ -23,7 +23,13 @@
 	
 ---
 
-小鱼 : [http://blog.csdn.net/ydx881218](http://blog.csdn.net/ydx881218)
+**昵称：** 小鱼
+ 
+**博客：** [http://blog.csdn.net/ydx881218](http://blog.csdn.net/ydx881218)
+
+**地区：** 魔都上海
+
+**描述：** 活得没心没肺的，哈哈~~
 
 ---
 
@@ -35,7 +41,13 @@ sunshine: [http://www.cnblogs.com/sunsh/articles/4846320.html](http://www.cnblog
 
 ---
 
-Patrick ：[http://www.dev2patrick.com/](http://www.dev2patrick.com/)
+**昵称：** Patrick
+ 
+**博客：** [http://www.dev2patrick.com/](http://www.dev2patrick.com/)
+
+**地区：** 羊城广州
+
+**描述：** a newbie android developer
 
 ---
 
