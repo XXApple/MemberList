@@ -10,6 +10,16 @@
 **地区：** 魔都上海
 
 **描述：** 人生如戏，赶紧装逼~
+
+---
+
+**昵称：** sunshine
+ 
+**博客：** [http://www.cnblogs.com/sunsh/articles/4846320.html](http://www.cnblogs.com/sunsh/articles/4846320.html)
+
+**地区：** 帝都北京
+
+**描述：** 人生如戏，禁止不装逼~
 	
 ---
 
