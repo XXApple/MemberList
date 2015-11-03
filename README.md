@@ -55,7 +55,13 @@ yrmo ：[http://blog.csdn.net/u013702312](http://blog.csdn.net/u013702312)
 
 ---
 
-痛定思痛：[http://blog.csdn.net/z469571695](http://blog.csdn.net/z469571695)
+**昵称：** 痛定思痛
+
+**博客：** [http://blog.csdn.net/z469571695](http://blog.csdn.net/z469571695)
+
+**地区：** 鹏程深圳
+
+**描述：** stay hungry , stay foolish
 
 ---
 
