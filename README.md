@@ -47,7 +47,13 @@
 
 ---
 
-yrmo ：[http://blog.csdn.net/u013702312](http://blog.csdn.net/u013702312)
+**昵称：** yrmo
+
+**博客：** [http://blog.csdn.net/u013702312](http://blog.csdn.net/u013702312)
+
+**地区：** 鹏城深圳
+
+**描述：** 代码渣 谢带飞 本来也不是一个没装过B的男同学。
 
 ---
 
