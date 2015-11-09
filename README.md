@@ -71,8 +71,13 @@
 
 ---
 
-yiming：[http://fanofdemo.github.io/](http://fanofdemo.github.io/)
+**昵称：** yiming
+ 
+**博客：** [http://fanofdemo.github.io/](http://fanofdemo.github.io/)
 
+**地区：** 魔都上海
+
+**描述：** 没心没肺，不然很累~
 ---
 
 **昵称：** 六只耳Duffy
