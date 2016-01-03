@@ -57,7 +57,13 @@
 
 ---
 
-张小丫：[http://blog.csdn.net/u013200864/](http://blog.csdn.net/u013200864/)
+**昵称：** 张小丫
+
+**博客：** [http://blog.csdn.net/u013200864/](http://blog.csdn.net/u013200864/)
+
+**地区：** 江城武汉
+
+**描述：** 毎日を学びます。
 
 ---
 
